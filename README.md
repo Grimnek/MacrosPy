@@ -11,6 +11,7 @@ Available Actions:
 AFK – Simulates AFK behavior by performing repetitive key presses.
 Autoclicker – Automatically clicks the selected mouse button.
 Autopush – Repeatedly presses a specified key.
+
 Key Mappings:
 
 Left, left – Left mouse button for the autoclicker.
