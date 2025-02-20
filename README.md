@@ -1,4 +1,4 @@
-MacrosPy - Program Description
+# MacrosPy
 Description:
 MacrosPy is a simple automation tool designed for executing repeated actions using keyboard and mouse inputs.
 
